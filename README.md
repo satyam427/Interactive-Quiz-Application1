@@ -1,17 +1,17 @@
   # Interactive-Quiz-Application1
 
-  COMPANY NAME - CODTECH IT SOLUTIONS
-  NAME - ABHAY RAJ SINGH CHOUHAN
-  INTERN ID - CT04DH2270
-  DOMAIN - FRONTEND WEB DEVELOPMENT
-  DURATION -  4 WEEK
-  MENTOR - NEELA SANTOSH KUMAR 
+  *COMPANY NAME* - CODTECH IT SOLUTIONS
+  *NAME* - ABHAY RAJ SINGH CHOUHAN
+  *INTERN ID* - CT04DH2270
+  *DOMAIN* - FRONTEND WEB DEVELOPMENT
+  *DURATION* -  4 WEEK
+  *MENTOR* - NEELA SANTOSH KUMAR 
 
-  DESCRIPTION ABOUT MY PROJECT - 
+  #DESCRIPTION ABOUT MY PROJECT - 
           This project is a responsive and interactive web-based quiz application built using HTML, CSS, and JavaScript.
           The application allows users to answer multiple-choice questions and receive instant feedback.
 
-   KEY FEATURES:-
+   #KEY FEATURES:-
            
      Dynamic Question Loading
      All questions are loaded programmatically, making it easy to scale or change quiz content.
@@ -21,6 +21,8 @@
 
      Scoring System
      Tracks the number of correct answers and displays a final score at the end.
+
+     #OUTPUT : ![Image](https://github.com/user-attachments/assets/074fffbb-0e5e-4d7c-970f-895f9f43e0a5)
 
 
   
