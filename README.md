@@ -26,7 +26,6 @@
      
      
 
-     ![Image](https://github.com/user-attachments/assets/0807a0ef-7a9d-49dd-ad83-308bfd4609dd)
-
+     ![image alt]
 
   
