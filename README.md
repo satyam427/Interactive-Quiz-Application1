@@ -22,7 +22,9 @@
      Scoring System
      Tracks the number of correct answers and displays a final score at the end.
 
-     #OUTPUT : ![Image](https://github.com/user-attachments/assets/074fffbb-0e5e-4d7c-970f-895f9f43e0a5)
+     #OUTPUT : 
+     
+     ![Image](https://github.com/user-attachments/assets/074fffbb-0e5e-4d7c-970f-895f9f43e0a5)
 
 
   
