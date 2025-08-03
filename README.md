@@ -23,6 +23,8 @@
      Tracks the number of correct answers and displays a final score at the end.
 
      #OUTPUT : 
+
+     ![image alt](https://github.com/satyam427/Interactive-Quiz-Application1/blob/e308741de0161b8d703ffd0f4450f19e5c70dec9/Screenshot_3-8-2025_142517_127.0.0.1.jpeg)
      
      
 
