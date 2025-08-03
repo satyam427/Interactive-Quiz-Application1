@@ -17,7 +17,7 @@ Loads and displays questions with multiple-choice answers from a JavaScript arra
  Instant Feedback:
 The app instantly tells users whether their selected answer is correct or not, using visual cues (e.g., green for correct, red for wrong).
 
-📊 Real-Time Score Tracking:
+ Real-Time Score Tracking:
 Displays the user's current score and shows the final result at the end of the quiz.
    
   
